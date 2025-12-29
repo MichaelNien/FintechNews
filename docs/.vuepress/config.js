@@ -11,6 +11,14 @@ module.exports = {
     sidebar: [
       ['/', '首頁'],
 	  {
+		title: '2026',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+			['/2026/2026_01.md', '01'],
+        ]
+      },
+	  {
 		title: '2025',
         collapsable: false,
         sidebarDepth: 1,

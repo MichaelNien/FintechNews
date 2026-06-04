@@ -15,6 +15,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [
+			['/2026/2026_23.md', '23'],
 			['/2026/2026_22.md', '22'],
 			['/2026/2026_21.md', '21'],
 			['/2026/2026_20.md', '20'],
